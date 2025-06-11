@@ -1,0 +1,19 @@
+.about-block-container {
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  box-shadow: 0 0 10px inset rgba(0, 0, 0, 0.5);
+  padding: 50px 0;
+}
+
+.about-block p {
+  font-size: 24px;
+}
+
+.photo img {
+  width: 400px;
+  height: 400px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.7);
+  border-radius: 30px;
+}
